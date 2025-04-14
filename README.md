@@ -15,3 +15,5 @@ $v_{n+1} = v_n - 2\mu \frac{Av-rv}{v^\intercal v}$
 ***Reward***: $r=\frac{v^\intercal A v}{v^\intercal v}$  
 ***Hyperparametres***:  Learning Rate $\mu$
 
+
+
